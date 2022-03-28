@@ -1,0 +1,31 @@
+﻿StartNode,EndNode,Sequence
+HamburgPort,RotterdamPort,Echo - Foxtrot - Hotel - Golf
+HamburgPort,AlphaRig,Echo - Foxtrot
+HamburgPort,BetaRig,Echo - Foxtrot - India
+HamburgPort,CharlieRig,Echo - Lima
+HamburgPort,DeltaRig,Echo - Lima - Juliett - Kilo
+RotterdamPort,HamburgPort,Golf - Hotel - Foxtrot - Echo
+RotterdamPort,AlphaRig,Golf - Hotel
+RotterdamPort,BetaRig,Golf - Hotel - India
+RotterdamPort,CharlieRig,Golf - Hotel
+RotterdamPort,DeltaRig,Golf - Hotel - Juliett - Kilo
+AlphaRig,HamburgPort,Foxtrot - Echo
+AlphaRig,RotterdamPort,Hotel - Golf
+AlphaRig,BetaRig,India
+AlphaRig,CharlieRig,Direct Route
+AlphaRig,DeltaRig,Juliett - Kilo
+BetaRig,HamburgPort,India - Foxtrot - Echo
+BetaRig,RotterdamPort,India - Hotel - Golf
+BetaRig,AlphaRig,India
+BetaRig,CharlieRig,Direct Route
+BetaRig,DeltaRig,Juliett - Kilo
+CharlieRig,HamburgPort,Lima - Echo
+CharlieRig,RotterdamPort,Hotel - Golf
+CharlieRig,AlphaRig,Direct Route
+CharlieRig,BetaRig,Direct Route
+CharlieRig,DeltaRig,Juliett - Kilo
+DeltaRig,HamburgPort,Kilo - Juliett - Lima - Echo
+DeltaRig,RotterdamPort,Kilo - Juliett - Hotel - Golf
+DeltaRig,AlphaRig,Kilo - Juliett
+DeltaRig,BetaRig,Kilo - Juliett
+DeltaRig,CharlieRig,Kilo - Juliett

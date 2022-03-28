@@ -1,0 +1,17 @@
+﻿NodeName,Latitude,Longitude,NodeType,Region
+HamburgPort,53.55562,9.98745,Port,The South
+RotterdamPort,51.89566,4.35257,Port,The South
+AlphaRig,54.45067,2.37275,Rig,The South
+BetaRig,57.02179,-0.67314,Rig,The Central
+CharlieRig,57.84155,0.84980,Rig,The Central
+DeltaRig,59.42662,-5.24196,Rig,The North
+Echo,54.00555,8.46451,Waypoint,The South
+Foxtrot,54.45067,5.41863,Waypoint,The South
+Golf,52.17672,3.51495,Waypoint,The South
+Hotel,53.55562,3.89569,Waypoint,The South
+India,56.18354,0.84980,Waypoint,The Central
+Juliett,59.42662,-0.67314,Waypoint,The North
+Kilo,60.19243,-3.71902,Waypoint,The North
+Lima,56.18354,5.41863,Waypoint,The Central
+BelfastPort,54.63619,-5.88159,Port,The South
+Mike,56.18354,-8.28784,Waypoint,The Central
